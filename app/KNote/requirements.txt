@@ -1,0 +1,57 @@
+ARYA-SINHALA
+FULL-SUIT
+NORMAL-SUITS
+KURTHA
+KURTHA-COAT
+WEAST-COAT
+
+
+
+
+data enter
+    products
+
+    1 - code
+    2- NAME (optional)
+    3 -
+
+rental dashboardO
+    1 - slect catgory
+    2 - serach
+    3 - status
+    4 - image
+    5 - renat date
+    6 - pending date time
+    7 - return  date time
+    8- bill number
+
+    8 - customer detaisl
+
+            NIC PHOTO
+            PHONE
+            NAME
+            ADRESS
+
+
+    9 - SHOP PRODUCT DETAILS
+    10 - REVENUE REPORTS
+
+            daily
+            monthly
+            from to
+
+
+Android App -> rental list
+
+1 - view rental data
+2 - rent process
+3 - view customer data
+4 - revenue reports
+
+
+cloth code
+
+
+
+
+

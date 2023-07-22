@@ -1,0 +1,22 @@
+ssh://romeolk@161.97.107.73/home/romeolk/public_html/krepo.git
+
+
+--------------------------------------------------------------
+
+PATH="/home/romeolk/bin":$PATH
+export PATH
+
+APP_WEB_DIR="/home/romeolk/public_html"
+APP_GIT_DIR="/home/romeolk/public_html/krepo.git"
+
+git --work-tree=${APP_WEB_DIR} --git-dir=${APP_GIT_DIR} checkout -f
+
+cd ${APP_WEB_DIR}
+composer install
+
+chmod -R g+w storage
+
+----------------------------------------------------------------
+
+
+
