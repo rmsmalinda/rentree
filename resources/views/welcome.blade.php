@@ -51,7 +51,6 @@
                                  <li><a href="/contact">CONTACT</a></li>
                               </ul>
                            </div>
-                           <!-- /.navbar-collapse -->
                         </nav>
                      </div>
                   </div>
@@ -102,7 +101,7 @@
             </div>
          </div>
       </div>
-      <div class="container-fluid main-wrapper" >
+      <div class="container-fluid main-wrapper">
          <div class="container">
             <div class="row">
                <div class="col-xs-12 main-top ">
